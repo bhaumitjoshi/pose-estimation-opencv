@@ -38,7 +38,7 @@ Given known 3D object points and their corresponding 2D image projections, the s
 ```bash
 pip install -r requirements.txt
 python main.py
-'''md
+```
 ## Example Output
 
 ![Pose Estimation Output](pose_estimation_output.png)
